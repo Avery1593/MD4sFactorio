@@ -4,7 +4,7 @@
     "title": "MD4s",
     "author": "VexingVixen",
     "contact": "Discord: VexingVixenVivian#1696",
-    "description": "Changes the name of atomic bombs in game to MD4s, short for Medium Distance Democracy Delivery Devices; inspired from Reddit.",
+    "description": "Changes the name of atomic bombs in game to MD4s, short for Medium Distance Democracy Delivery Devices; inspired from Reddit user u/LordHuntington1337. Made in conjunction with fellow modder _CodeGreen",
     "factorio_version": "1.1",
     "dependencies": ["base >= 1.1"]
 }
